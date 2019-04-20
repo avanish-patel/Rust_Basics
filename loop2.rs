@@ -3,9 +3,9 @@ fn main() {
 
     let mut n = 0;
 
-    while n<10 {
+    while n < 10 {
 
         println!("{}", n);
-        n+=1;
+        n += 1;
     }
 }

@@ -11,7 +11,6 @@ fn main() {
         println!("{}", fruit);
     }
 
-
     for (index, fruit) in fruits.iter().enumerate() {
 
         println!("{} : {}", index, fruit);
