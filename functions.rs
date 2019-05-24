@@ -1,4 +1,3 @@
-
 fn main() {
 
     print_numbers_to(10);
